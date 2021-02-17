@@ -1,0 +1,27 @@
+{
+  "name": "monster-manual",
+  "title": "Monster Manual Compendium 5e",
+  "description": "<p>This module provides the Monster Manual by Wizards of the Coast, the tokens were made by Caeora, and the Module was put together by Sai Kitsune. Currently up to CR 5 Creatures.</p>",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.7.9",
+  "compatibleCoreVersion": "1.0.0",
+  "author": "Sai Kitsune. MM by WotC, Tokens by: Caeora",
+  "packs": [
+    {
+        "name": "actors",
+        "label": "Monster Manual",
+        "path": "packs/monster-manual.db",
+        "entity": "Actor",
+        "package": "monster-manual"
+    }
+  ],
+  	 "dependencies": [
+    {
+      "name": "autorotate",
+      "manifest": "https://github.com/Varriount/fvtt-autorotate/releases/latest/download/module.json"
+    }
+  ],
+  "url": "https://github.com/saikitsune/monster-manual-foundryvtt",
+  "manifest": "https://raw.githubusercontent.com/saikitsune/monster-manual-foundryvtt/master/module.json",
+  "download": "https://github.com/saikitsune/monster-manual-foundryvtt/archive/master.zip"
+}
