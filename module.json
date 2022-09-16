@@ -4,6 +4,7 @@
   "description": "monster-manual for dnd5e",
   "author": "Varriount",
   "version": "v1.0.1",
+  "system": "dnd5e",
   "minimumCoreVersion": "0.8.5",
   "compatibleCoreVersion": "9",
   "styles": [],
