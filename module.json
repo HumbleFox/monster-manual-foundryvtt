@@ -23,6 +23,6 @@
     }
   ],
   "url": "https://github.com/saikitsune/monster-manual-foundryvtt",
-  "manifest": "https://raw.githubusercontent.com/saikitsune/monster-manual-foundryvtt/master/module.json",
+  "manifest": "https://github.com/HumbleFox/monster-manual-foundryvtt/blob/main/module.json",
   "download": "https://github.com/saikitsune/monster-manual-foundryvtt/archive/1.0.1.zip"
 }
