@@ -1,29 +1,10 @@
 {
-  "id": "monster-manual",
-  "title": "Monster-Manual",
-  "description": "monster-manual for dnd5e",
-  "author": "Varriount",
-  "version": "v1.0.1",
-  "system": ["dnd5e"],
-  "minimumCoreVersion": "0.8.5",
-  "compatibleCoreVersion": "9",
-  "styles": [],
-  "packs": [
-    {
-        "name": "actors",
-        "label": "Monster Manual",
-        "path": "packs/monster-manual.db",
-        "entity": "Actor",
-        "package": "monster-manual"
-    }
-  ],
-  	 "dependencies": [
-    {
-      "name": "autorotate",
-      "manifest": "https://github.com/Varriount/fvtt-autorotate/releases/latest/download/module.json"
-    }
-  ],
-  "url": "https://github.com/saikitsune/monster-manual-foundryvtt",
-  "manifest": "https://github.com/HumbleFox/monster-manual-foundryvtt/blob/main/module.json",
-  "download": "https://github.com:HumbleFox/monster-manual-foundryvtt.git"
+  "id": "monster manual",
+  "title": "Dice Tray - An Example FVTT Module",
+  "description": "A simple module created as a demo for working in the Foundry Virtual Tabletop framework.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "9",
+    "verified": "10"
+  }
 }
